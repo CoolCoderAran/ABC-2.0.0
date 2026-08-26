@@ -1,0 +1,4 @@
+*** Can't cope with problem in your command
+    WRITE {0.5..1} /
+*** (detected after reading 1 line of your input file standard input)
+*** The problem is: in p..q, p is a number but not an integer

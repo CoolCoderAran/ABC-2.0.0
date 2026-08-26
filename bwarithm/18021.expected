@@ -1,0 +1,4 @@
+*** Can't cope with problem in your command
+    WRITE 2 root -1 /
+*** (detected after reading 1 line of your input file standard input)
+*** The problem is: in x**(p/q) or (q/p) root x, x is negative and q is even

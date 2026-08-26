@@ -1,0 +1,4 @@
+*** Can't cope with problem in your command
+    WRITE exp 9007199254740991.0 /
+*** (detected after reading 1 line of your input file standard input)
+*** The problem is: approximate number too large

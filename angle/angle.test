@@ -1,0 +1,20 @@
+WRITE angle (1, 0) /
+WRITE angle (42, 0) /
+WRITE angle (0, 0) /
+WRITE 8 round angle (0, 1) /
+WRITE 8 round angle (0, 42) /
+WRITE 8 round angle (1/root 2, 1/root 2) /
+WRITE 8 round angle (1/2, (root(3))/2) /
+WRITE 8 round angle (21, (21*root(3))) /
+WRITE 8 round angle (1/2, -(root(3))/2) /
+WRITE 8 round angle (21, -(21*root(3))) /
+WRITE 360 angle (1, 0) /
+WRITE 360 angle (42, 0) /
+WRITE 42 angle (0, 0) /
+WRITE 8 round (16 angle (0, 1)) /
+WRITE 8 round (24 angle (0, 42)) /
+WRITE 8 round (42 angle (1/root 2, 1/root 2)) /
+WRITE 8 round (66 angle (1/2, (root(3))/2)) /
+WRITE 8 round (132 angle (21, 21*root(3))) /
+WRITE 8 round (360 angle (1/2, -(root (3))/2)) /
+WRITE 8 round (360 angle (21, -21*root(3))) /

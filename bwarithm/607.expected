@@ -1,0 +1,4 @@
+*** Can't cope with problem in your command
+    WRITE sin 209478974568746514637291983765675782981 /
+*** (detected after reading 1 line of your input file standard input)
+*** The problem is: argument to math function too large

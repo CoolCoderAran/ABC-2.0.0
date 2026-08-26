@@ -1,0 +1,4 @@
+*** Can't cope with problem in your command
+    WRITE 60.343481 round 1.73 /
+*** (detected after reading 1 line of your input file standard input)
+*** The problem is: in n round x, n is not an integer

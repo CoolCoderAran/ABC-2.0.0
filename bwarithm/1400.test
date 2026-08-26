@@ -1,0 +1,3 @@
+PUT {1; 3} IN a
+PUT {1; 2; 3} IN b
+WRITE {a..b} /

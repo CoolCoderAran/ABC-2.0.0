@@ -1,0 +1,5 @@
+*** There's something I don't understand in your command
+    WRITE 48e /
+            ^
+*** (detected after reading 1 line of your input file standard input)
+*** The problem is: e not followed by exponent

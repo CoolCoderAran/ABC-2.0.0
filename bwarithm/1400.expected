@@ -1,0 +1,4 @@
+*** Can't cope with problem in your command
+    WRITE {a..b} /
+*** (detected after reading 3 lines of your input file standard input)
+*** The problem is: in p..q, p is neither a text nor a number

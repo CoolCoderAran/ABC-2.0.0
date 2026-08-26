@@ -1,0 +1,4 @@
+*** Can't cope with problem in your command
+    WRITE 5/0 /
+*** (detected after reading 1 line of your input file standard input)
+*** The problem is: in i/j, j is zero

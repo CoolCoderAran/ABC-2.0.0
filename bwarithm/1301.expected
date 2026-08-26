@@ -1,0 +1,4 @@
+*** Can't cope with problem in your command
+    WRITE 99999999999999999999999999999999999 round 8 /
+*** (detected after reading 1 line of your input file standard input)
+*** The problem is: exceedingly large integer

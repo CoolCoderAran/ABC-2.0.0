@@ -1,0 +1,4 @@
+*** Can't cope with problem in your command
+    WRITE log-65 /
+*** (detected after reading 1 line of your input file standard input)
+*** The problem is: in log x, x <= 0

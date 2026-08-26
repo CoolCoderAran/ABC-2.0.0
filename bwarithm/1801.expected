@@ -1,0 +1,4 @@
+*** Can't cope with problem in your command
+    WRITE 0**(-7) /
+*** (detected after reading 1 line of your input file standard input)
+*** The problem is: in 0**y or y root 0, y is negative
